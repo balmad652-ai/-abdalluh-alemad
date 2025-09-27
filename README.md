@@ -39,7 +39,7 @@
 ## 📫 Connect with Me
 - 📧 Email: abdullah.al.emad@gmail.com
 - 💼 LinkedIn:www.linkedin.com/in/abdullah-al-emad)
-- 🐙 GitHub: github.com/Abdullah-Al-Emad)
+- 🐙 GitHub:github.com/Abdullah-Al-Emad)
 - 🌐 Website: www.abdullahemad.com)
 
 ## 🏆 Certifications
