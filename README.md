@@ -1,48 +1,50 @@
+<h1 align="center">👋 Hey there, I'm <span style="color:#00C897;">Abdullah Al Emed </span> 🇾🇪</h1>
 
-
-``markdown
-# 👋 Hello,    I'm Abdullah Al Emad
-** I am IT Student | Mobile Technician & Aspiring Developer**
-
-## 🎓 About Me
-- 🎯 IT student passionate about technology and software development
-- 📱 Certified in mobile phone programming and maintenance
-- 🌱 Currently learning and expanding my skills in various IT domains
-- 💡 Interested in mobile development, web development, and technical support
-
-## 🛠 Technical Skills
-
-### 📱 Mobile Technology
-- **Mobile Programming & Repair**: Certified in mobile phone maintenance and programming
-- **Flutter & Dart**: Basic understanding of mobile app development
-- **Android/iOS**: Knowledge of mobile operating systems
-
-### 💻 Programming & Development
-- **Web Design**: Fundamentals of web design and development
-- **Databases**: Basic knowledge of databases (including MySQL)
-
-### 🔧 IT & Technical Support
-- **Computer Maintenance**: Laptop installation, software setup, and technical support
-- **Networking**: Strong foundation in computer networks
-- **Hardware**: Computer and mobile device troubleshooting
-
-### 🌐 Languages & Tools
-- **Languages**: Arabic (Native), English (Intermediate)
-- **OS**: Windows installation and configuration
-- **Productivity**: MS Office and general computer applications
-
-## 📚 Currently Learning
-- Advanced Flutter development
-- Backend development technologies
-- Improving my English language skills
-
-## 📫 Connect with Me
-- 📧 Email: abdullah.al.emad@gmail.com
-- 💼 LinkedIn:www.linkedin.com/in/abdullah-al-emad)
-- 🐙 GitHub:github.com/Abdullah-Al-Emad)
-- 🌐 Website: www.abdullahemad.com)
-
-## 🏆 Certifications
-- Mobile Phone Maintenance and Programming Certificate
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00C897&center=true&vCenter=true&width=500&lines=💙+Flutter+Developer;🔥+Firebase+%26+GetX+Enthusiast;🎯+Building+Smart+and+Useful+Apps" alt="Typing SVG" />
+</p>
 
 ---
+
+### 💼 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,vscode&theme=dark" />
+</p>
+
+- 🧠 **Flutter / Dart**  
+- ☁️ **Firebase (Auth – Firestore – Storage)**  
+- ⚙️ **State Management:** GetX / Riverpod / Provider  
+- 🎨 **UI/UX Design**  
+- 🌐 **REST APIs – JSON Integration**
+
+---
+
+### 🚀 Selected Projects
+
+| Project | Description |
+|----------|--------------|
+| [🕋 Adhkar Al-Muslim](https://github.com/Abody-Aho/Moslem_App) | Morning & Evening Adhkar app with smart tasbih counter |
+| [🛒 FindIt](https://github.com/Abody-Aho/findit-app) | Find and compare products from nearby supermarkets |
+
+---
+
+### 🧑‍💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abody-Aho&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abody-Aho&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+### ⏱️ Coding Activity (WakaTime)
+<p align="center">
+  <img src="https://wakatime.com/badge/user/b9e2caa8-adfc-42ce-a92b-6fb2327274ef.svg" alt="WakaTime Badge"/>
+</p>
+
+---
+
+### 🌟 Featured Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical)](https://github.com/Abody-Aho/Moslem_App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical)](https://github.com/Abody-Aho/Dashboad)
