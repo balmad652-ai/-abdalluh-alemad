@@ -37,6 +37,7 @@
 
 ---
 
+
 ### ⏱️ Coding Activity (WakaTime)
 <p align="center">
   <img src="https://waka_9b641239-aa64-417f-a9cb-73219ccd3e31.svg" alt="WakaTime Badge"/>
@@ -45,6 +46,3 @@
 ---
 
 ### 🌟 Featured Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Moslem_App&theme=radical)](https://github.com/Abody-Aho/Moslem_App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abody-Aho&repo=Dashboad&theme=radical)](https://github.com/Abody-Aho/Dashboad)
