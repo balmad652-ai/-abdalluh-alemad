@@ -36,6 +36,11 @@
 </p>
 
 ---
+## ⏱️ Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 ### ⏱️ Coding Activity (WakaTime)
