@@ -36,12 +36,14 @@
 </p>
 
 ---
-
 ### ⏱️ Coding Activity (WakaTime)
+
 <p align="center">
-  <img src="https://waka_5e74e051-2b69-4857-b002-494aff6593f6.svg
-"/>
-</p>https://wakatime.com/badge/user/12345678-abcd-4321-zzzz-abcdef123456.svg
+  <img
+    src="https://wakatime.com/badge/user/f25e6073-092f-483e-a10d-f83148d13d98.svg"
+    alt="WakaTime Coding Time"
+  />
+</p>
 
 ---
 
