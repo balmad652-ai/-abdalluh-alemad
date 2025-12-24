@@ -39,10 +39,7 @@
 
 ### ⏱️ Coding Activity (WakaTime)
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/5e74e051-2b69-4857-b002-494aff6593f6.svg" alt="WakaTime Coding Activity"/>
-</p>
-
+[![WakaTime](https://wakatime.com/badge/user/5e74e051-2b69-4857-b002-494aff6593f6.svg)](https://wakatime.com)
 
 
 ---
